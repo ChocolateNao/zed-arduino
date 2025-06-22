@@ -2,6 +2,7 @@
   (compound_statement)
   (if_statement)
   (switch_statement)
+  (for_statement)
 ] @indent.begin
 
 (compound_statement
