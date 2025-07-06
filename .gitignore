@@ -1,2 +1,6 @@
 grammars/*
 *.ino
+
+# Added by cargo
+
+/target
